@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iranano
 - 👀 I’m interested in game-developing
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Unity/C# and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
